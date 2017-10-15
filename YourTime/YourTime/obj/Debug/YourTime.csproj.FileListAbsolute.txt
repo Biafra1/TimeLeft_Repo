@@ -1,0 +1,10 @@
+C:\Users\mduli\source\repos\YourTime\YourTime\bin\Debug\YourTime.exe.config
+C:\Users\mduli\source\repos\YourTime\YourTime\bin\Debug\YourTime.exe
+C:\Users\mduli\source\repos\YourTime\YourTime\bin\Debug\YourTime.pdb
+C:\Users\mduli\source\repos\YourTime\YourTime\obj\Debug\YourTime.csprojResolveAssemblyReference.cache
+C:\Users\mduli\source\repos\YourTime\YourTime\obj\Debug\YourTime.Form1.resources
+C:\Users\mduli\source\repos\YourTime\YourTime\obj\Debug\YourTime.Properties.Resources.resources
+C:\Users\mduli\source\repos\YourTime\YourTime\obj\Debug\YourTime.csproj.GenerateResource.Cache
+C:\Users\mduli\source\repos\YourTime\YourTime\obj\Debug\YourTime.csproj.CoreCompileInputs.cache
+C:\Users\mduli\source\repos\YourTime\YourTime\obj\Debug\YourTime.exe
+C:\Users\mduli\source\repos\YourTime\YourTime\obj\Debug\YourTime.pdb
